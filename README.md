@@ -27,5 +27,4 @@ A visual demonstration of my headless eCommerce CMS, highlighting product workfl
 - Optimized API usage with caching of collections, brands, etc., using `useContext` to reduce unnecessary database calls.
 - Inventory supports `apply value to all related product variants`.
 - Products can be duplicated, with optional caching for quick duplication.
-- Direct product links to the storefront can be opened from the dashboard.
 - Upload images for Collections (banner image) and Brands (brand image).
