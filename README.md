@@ -1,6 +1,6 @@
 # Headless eCommerce CMS
 
-A visual demonstration of my headless eCommerce CMS, highlighting product workflows, and inventory handling.
+A visual demonstration of my headless eCommerce CMS, featuring product workflows, and inventory handling.
 
 ---
 
